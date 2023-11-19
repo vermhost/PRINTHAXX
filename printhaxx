@@ -1,0 +1,1 @@
+local print={};function print.printhackversion2(inp)print(inp);end;return print
